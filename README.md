@@ -52,6 +52,8 @@ To classify MDD using EEG and audio data by:
 ---
 
 ## Results
+![eeg project visualization](https://github.com/user-attachments/assets/b0530aaa-87c5-4a75-b191-5aded2d383e3)
+
 - **EEG Analysis**:
   - Significant differences in alpha and beta band powers between MDD and healthy subjects.
   - Resting state data showed more pronounced differences than task state data.
