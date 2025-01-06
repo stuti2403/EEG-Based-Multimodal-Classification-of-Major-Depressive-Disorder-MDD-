@@ -1,4 +1,5 @@
 
+[poster_EEG_MDD.pdf](https://github.com/user-attachments/files/18317105/poster_EEG_MDD.pdf)
 # EEG-based Multimodal Classification of Major Depressive Disorder (MDD)
 
 This repository contains the implementation and results of a research project aimed at developing a robust multimodal diagnostic pipeline for Major Depressive Disorder (MDD). By combining EEG and audio data, this project leverages advanced signal processing and deep learning techniques to improve the detection and classification of MDD.
@@ -105,13 +106,8 @@ To classify MDD using EEG and audio data by:
 
 ---
 
-## Citation
-If you use this repository in your research, please cite:
 
-> Wadhwa, S., et al. "EEG-based Multimodal Classification of Major Depressive Disorder Using Audio and EEG Data." 2025.
-
----
 
 ## Contact
-For any queries or collaborations, reach out to [Stuti Wadhwa](mailto:stuti.wadhwa@example.com).
+For any queries or collaborations, reach out to [Stuti Wadhwa](mailto:stuti.wadhwa1@gmail.com).
 
