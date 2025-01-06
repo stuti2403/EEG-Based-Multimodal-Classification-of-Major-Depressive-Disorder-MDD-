@@ -2,14 +2,14 @@
 
 # EEG-based Multimodal Classification of Major Depressive Disorder (MDD)
 
-This repository contains the implementation and results of a research project aimed at developing a robust multimodal diagnostic pipeline for Major Depressive Disorder (MDD). By combining EEG and audio data, this project leverages advanced signal processing and deep learning techniques to improve the detection and classification of MDD.
+This repository contains the implementation and results of a research project aimed at developing a robust preprocessing and artifact rejection pipeline for EEG signals with the aim of detecting Major Depressive Disorder (MDD). Validated by an average classification accuracy of 81.5\% across resting and task-state EEG signals, the pipeline effectively preserves critical neural patterns and enables accurate differentiation between healthy controls and MDD subjects.
 
 ---
 
 ## Overview
 
 ### Problem Statement
-Depression, a prevalent mental illness, often goes undiagnosed due to subjective diagnostic methods. While neuroimaging techniques like fMRI and PET exist, they have limitations, such as invasiveness or high cost. EEG, being non-invasive, cost-effective, and high in temporal resolution, presents a promising alternative for studying depression. Combining EEG with audio data provides complementary insights, enhancing diagnostic accuracy.
+Depression, a prevalent mental illness, often goes undiagnosed due to subjective diagnostic methods. While neuroimaging techniques like fMRI and PET exist, they have limitations, such as invasiveness or high cost. EEG, being non-invasive, cost-effective, and high in temporal resolution, presents a promising alternative for studying depression. 
 
 ### Objective
 To classify MDD using EEG and audio data by:
