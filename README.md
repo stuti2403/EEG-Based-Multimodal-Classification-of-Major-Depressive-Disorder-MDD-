@@ -86,28 +86,6 @@ To classify MDD using EEG and audio data by:
 
 ---
 
-## How to Use This Repository
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository_url>
-   ```
-
-2. **Dependencies**:
-   Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Data Preprocessing**:
-   - EEG preprocessing scripts are in the `preprocessing` directory.
-   - Feature extraction scripts for PSD and ERP are in the `features` directory.
-
-4. **Analysis**:
-   - Explore the results in the `results` directory, including topographical maps and feature distributions.
-
----
-
 
 
 ## Contact
